@@ -1,0 +1,19 @@
+xenv
+*.pyc
+*.srpy
+__pycache__
+.coverage
+*.txt
+*.jpg
+*.sh
+htmlcov
+sandbox
+updatepypi.sh
+switchyard.egg-info
+build
+dist
+tmp/
+# venv
+syenv/
+# vscode
+.vscode/
